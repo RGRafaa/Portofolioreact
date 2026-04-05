@@ -2,11 +2,11 @@ import React from 'react';
 import ImageCard from '../components/ImageCard';
 
 // Import Gambar Sertifikat
-import imgHtml from '../assets/html.png';
-import imgJs from '../assets/js.png';
-import imgPython from '../assets/python.png';
-import imgMl from '../assets/ml.png';
-import imgAi from '../assets/ai.png';
+import imgHtml from '../assets/HTML.png';
+import imgJs from '../assets/JS.png';
+import imgPython from '../assets/Python.png';
+import imgMl from '../assets/ML.png';
+import imgAi from '../assets/AI.png';
 
 // Import Gambar Proyek (Sesuaikan dengan file di folder assets lu)
 import imgHero from '../assets/hero.png'; 
